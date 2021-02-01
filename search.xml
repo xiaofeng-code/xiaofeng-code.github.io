@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="2021/02/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>2021/02/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>纪念我的第一篇博客，写一篇文章来纪念一下。</p><p>首先的是这个博客页面的搭建过程以及使用的主题。我是用的hexo搭建的博客，然后使用的是argon主题，这里只是简单介绍一下，后面会有一个完整的介绍这个主题。当然hexo版本的只有wordpress版本的一些功能，所以想要完整的可以去整wordpress版的。今天就说这么多，其他的以后慢慢介绍。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 第一篇博客 </tag>
+            
+            <tag> argon </tag>
+            
+            <tag> 主题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
